@@ -58,11 +58,13 @@ c.Build and run the app: Build the project and run it on an Android emulator or 
 **Room Persistence Library:**
 
 1.Room Runtime
+
 2.Room Compiler
 
 **Kotlin Coroutines:**
 
 1.Coroutines Core
+
 2.Coroutines Android
 
 
