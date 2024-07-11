@@ -2,15 +2,20 @@
 
 This is a simple Wish List application built with Jetpack Compose for Android. It allows users to create, view, update, and delete their wishes.
 
+
 **Features**
+
 1.**Add Wishes**: Users can add new wishes with a title and description.
 
 2.**View Wish List**: The app displays a list of all created wishes.
+
 3.**Update Wishes**: Users can edit existing wishes by tapping on them.
+
 4.**Delete Wishes**: Users can swipe to delete wishes from the list.
 
 
 **Navigation:** The app uses Jetpack Compose Navigation to navigate between screens.
+
 
 **UI:** The app features a clean and modern UI built with Material Design 3 components.
 
